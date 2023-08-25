@@ -52,4 +52,4 @@ select name,passpotr_number
     ->    where passport_number = 5773159633;
 select * from airports
     -> ;
-    SUUDDAAHH DI EDIT
+ 
